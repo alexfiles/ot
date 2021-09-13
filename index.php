@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<body>
 <lottie-player id="eightthLottie" src="https://assets8.lottiefiles.com/packages/lf20_tfqocvhu.json" style="width:400px; height: 400px;">"></lottie-player>
 
 <script>
@@ -13,3 +17,6 @@ LottieInteractivity.create({
     ]
 });
 </script>
+
+</body>
+</html>
